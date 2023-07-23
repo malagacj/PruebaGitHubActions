@@ -1,0 +1,3 @@
+pytest # Para hacer Tests Unitarios
+pylint # Comprueba syntaxis
+flake8 # Comprueba syntaxis
